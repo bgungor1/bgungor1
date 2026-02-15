@@ -1,19 +1,18 @@
-# Hello 👋 I'm, I'm Berkay Güngör
-### Jr Frontend | Mobile developer
+# 💫 About Me:
+🔭 I’m currently working on ojs-nutrition-app<br><br>🌱 I’m currently learning Node.js, SQL, Vue.js, Nuxt.js, Algorithms<br><br>👯 I’m looking to collaborate on Open Source React & Next.js Projects<br><br>🤝 I’m looking for help with Backend Development & Advanced Data Structures<br><br>👨‍💻 All of my projects are available at https://github.com/bgungor1<br><br>📝 I regularly write articles on https://medium.com/@berkayggngr<br><br>💬 Ask me about React, React Native, TypeScript, Next.js, Tailwind, Vite, Shadcn<br><br>📫 How to reach me berkaydev1@gmail.com<br><br>⚡ Fun fact I'm building a fitness app while maintaining a strict workout routine!
 
-I am a Software Developer building modern web and mobile interfaces within the React, React Native, Next.js, and TypeScript ecosystems. I am passionate about creating scalable, user-centric solutions that adhere to clean code principles. I believe in contributing to the project as a whole rather than just completing assigned tasks; with this vision, I am focused on becoming a T-shaped developer by complementing my frontend expertise with a growing understanding of backend architectures and database structures (Node.js, SQL). With a collaborative mindset, I am ready to grow and create value in dynamic environments.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/berkaygungorr1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@berkayggngr" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@berkaygungorr1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@berkayggngr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:berkaydev1@gmail.com) 
 
-## Skills
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bgungor1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bgungor1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bgungor1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=bgungor1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgungor1&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bgungor1&theme=tokyonight" alt="GitHub Streak" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
