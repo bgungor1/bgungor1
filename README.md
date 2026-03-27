@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ojs-nutrition-app<br><br>🌱 I’m currently learning Node.js, SQL, Vue.js, Nuxt.js, Algorithms<br><br>👯 I’m looking to collaborate on Open Source React & Next.js Projects<br><br>🤝 I’m looking for help with Backend Development & Advanced Data Structures<br><br>👨‍💻 All of my projects are available at https://github.com/bgungor1<br><br>📝 I regularly write articles on https://medium.com/@berkayggngr<br><br>💬 Ask me about React, React Native, TypeScript, Next.js, Tailwind, Vite, Shadcn<br><br>📫 How to reach me berkaydev1@gmail.com<br><br>⚡ Fun fact I'm building a fitness app while maintaining a strict workout routine!
+🔭 I’m currently working on ecommerce<br><br>🌱 I’m currently learning Node.js, SQL, Vue.js, Nuxt.js, Algorithms<br><br>👯 I’m looking to collaborate on Open Source React & Next.js Projects<br><br>🤝 I’m looking for help with Backend Development & Advanced Data Structures<br><br>👨‍💻 All of my projects are available at https://github.com/bgungor1<br><br>📝 I regularly write articles on https://medium.com/@berkayggngr<br><br>💬 Ask me about React, React Native, TypeScript, Next.js, Tailwind, Vite, Shadcn<br><br>📫 How to reach me berkaydev1@gmail.com<br><br>⚡ Fun fact I'm building a fitness app while maintaining a strict workout routine!
 
 
 ## 🌐 Socials:
